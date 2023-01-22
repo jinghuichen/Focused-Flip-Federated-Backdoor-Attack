@@ -20,15 +20,15 @@ This is the official code for our paper [On the Vulnerability of Backdoor Defens
    ```
 
 3. run Bases.py
-```
-python Bases.py 
---defense {fedavg,ensemble-distillation,mediod-distillation,fine-tuning,mitigation-pruning,robustlr,certified-robustness,bulyan,deep-sight} 
---config {cifar,imagenet} 
---backdoor {ff,dba,naive,neurotoxin}
---model {simple,resnet18}
-```
+   ```
+   python Bases.py 
+   --defense {fedavg,ensemble-distillation,mediod-distillation,fine-tuning,mitigation-pruning,robustlr,certified-robustness,bulyan,deep-sight} 
+   --config {cifar,imagenet} 
+   --backdoor {ff,dba,naive,neurotoxin}
+   --model {simple,resnet18}
+   ```
 
-parameters about attack and defense baselines are mostly in `Params.py`, parameters about dataset are mostly in `configs/`
+   Hyperparameters about attack and defense baselines are mostly in `Params.py`, hyperparameters about dataset are mostly in `configs/`
 
-## citation
-[TBD]
+## Citation
+   [TBD]
