@@ -1,5 +1,5 @@
 # Focused-Flip-Federated-Backdoor-Attack
-This is the official code for our paper [On the Vulnerability of Backdoor Defenses for Federated Learning](https://arxiv.org/abs/2301.08170) (aceepted by AAAI-2023) by Pei Fang and  [Jinghui Chen](https://jinghuichen.github.io/) .
+This is the official code for our paper [On the Vulnerability of Backdoor Defenses for Federated Learning](https://arxiv.org/abs/2301.08170) (accepted by AAAI-2023) by Pei Fang and  [Jinghui Chen](https://jinghuichen.github.io/) .
 
 ## Prerequisites
 
