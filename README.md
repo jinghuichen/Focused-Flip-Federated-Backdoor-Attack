@@ -3,11 +3,11 @@ This is the official code for our paper [On the Vulnerability of Backdoor Defens
 
 ## Prerequisites
 
-- Python (3.8+, required)
+- Python (3.8+, is a must)
 - Pytorch (1.11)
 - CUDA (1.10+)
 
-- small other packages (just conda install or pip install)
+- some other packages (just conda install or pip install)
 
 ## Step to run
 1. get into the directory `/Focused-Flip-Federated-Backdoor-Attack`
