@@ -3,19 +3,11 @@ This is the official code for our paper [On the Vulnerability of Backdoor Defens
 
 ## Prerequisites
 
-- Python (3.8+)
-- Pytorch (1.7.1)
-- CUDA
-- small other package (just conda install or pip install)
+- Python (3.8+, required)
+- Pytorch (1.11)
+- CUDA (1.10+)
 
-
-## Prerequisites
-
-- Python (3.8+)
-- Pytorch (1.7.1)
-- CUDA
-
-- small other package (just conda install or pip install)
+- small other packages (just conda install or pip install)
 
 ## Step to run
 1. get into the Directory `/Focused-Flip-Federated-Backdoor-Attack`
@@ -35,3 +27,8 @@ python Bases.py
 --backdoor {ff,dba,naive,neurotoxin}
 --model {simple,resnet18}
 ```
+
+parameters about attack and defense baselines are mostly in `Params.py`, parameters about dataset are mostly in `configs/`
+
+## citation
+[TBD]
