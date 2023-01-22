@@ -10,9 +10,9 @@ This is the official code for our paper [On the Vulnerability of Backdoor Defens
 - small other packages (just conda install or pip install)
 
 ## Step to run
-1. get into the Directory `/Focused-Flip-Federated-Backdoor-Attack`
+1. get into the directory `/Focused-Flip-Federated-Backdoor-Attack`
 
-2. run command to get Tiny-ImageNet
+2. run command to get Tiny-ImageNet dataset
 
    ```bash
    wget http://cs231n.stanford.edu/tiny-imagenet-200.zip
