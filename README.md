@@ -6,11 +6,10 @@ This is the official code for our paper [On the Vulnerability of Backdoor Defens
 - Python (3.8+, is a must)
 - Pytorch (1.11)
 - CUDA (1.10+)
-
 - some other packages (just conda install or pip install)
 
 ## Step to run
-1. get into the directory `/Focused-Flip-Federated-Backdoor-Attack`
+1. get into the directory `Focused-Flip-Federated-Backdoor-Attack/`
 
 2. run command to get Tiny-ImageNet dataset
 
@@ -20,7 +19,7 @@ This is the official code for our paper [On the Vulnerability of Backdoor Defens
    ```
 
 3. run Bases.py
-   ```
+   ```bash
    python Bases.py 
    --defense {fedavg,ensemble-distillation,mediod-distillation,fine-tuning,mitigation-pruning,robustlr,certified-robustness,bulyan,deep-sight} 
    --config {cifar,imagenet} 
