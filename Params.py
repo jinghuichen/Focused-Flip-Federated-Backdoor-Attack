@@ -101,7 +101,8 @@ class Params:
     
     # for flip
     flip_factor = 1
-    # model similarity factor
+    
+    # if attack bulyan, should set a number>0, for example 0.7
     model_similarity_factor: float = 0.0
     
     norm_clip_factor: float = 10.0
