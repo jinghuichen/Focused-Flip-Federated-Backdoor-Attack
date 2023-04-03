@@ -35,7 +35,7 @@ Please check our paper for technical details and full results. If you find our p
    @article{fang2023vulnerability,
      title={On the Vulnerability of Backdoor Defenses for Federated Learning},
      author={Fang, Pei and Chen, Jinghui},
-     journal={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+     journal={Proceedings of the AAAI Conference on Artificial Intelligence},
      year={2023}
    }
    ```
